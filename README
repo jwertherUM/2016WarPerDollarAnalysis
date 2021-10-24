@@ -1,6 +1,6 @@
 README
 
-Libraries Used
+Libraries Used:
 1. pybaseball
 2. sqlite3
 3. BeautifulSoup
@@ -25,4 +25,4 @@ Resources:
 3. https://github.com/jldbc/pybaseball/tree/master/docs
 4. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.html
 
-*Thank you to Zo Obradovic and the Phillies Baseball R+D Department for the opportunity and I hope to hear from you soon
+*Thank you to Zo Obradovic and the Phillies Baseball R+D Department for the opportunity
