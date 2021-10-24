@@ -1,0 +1,4 @@
+bs4==0.0.1
+pybaseball==2.2.1
+numpy==1.21.3
+requests==2.26.0

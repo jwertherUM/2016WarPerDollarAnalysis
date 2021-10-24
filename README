@@ -1,0 +1,28 @@
+README
+
+Libraries Used
+1. pybaseball
+2. sqlite3
+3. BeautifulSoup
+4. requests
+5. numpy
+
+Objective:
+The following python program utilizes the aforementioned libraries to calculate the
+qualifying offer for the year in the given data set. Additionlly, the program fetches
+player statistics using pybaseball from the top 125 players by salary and outputs 
+the available data to the console. A short summary of valuable players by WAR/salary
+is included as well.
+
+Instructions:
+Download all files in the folder and be sure to install the necessary packages using 
+pip3 install -r requirements.txt. From there, run the program from the commandline in 
+your terminal using: python3 assessmentQ2.py
+
+Resources:
+1. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+2. https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/
+3. https://github.com/jldbc/pybaseball/tree/master/docs
+4. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.html
+
+*Thank you to Zo Obradovic and the Phillies Baseball R+D Department for the opportunity and I hope to hear from you soon
