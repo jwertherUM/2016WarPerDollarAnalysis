@@ -10,9 +10,9 @@ Libraries Used:
 Objective:
 The following python program utilizes the aforementioned libraries to calculate the
 qualifying offer for the year in the given data set. Additionlly, the program fetches
-player statistics using pybaseball from the top 125 players by salary and outputs 
-the available data to the console. A short summary of valuable players by WAR/salary
-is included as well.
+player statistics for 2016 using pybaseball from the top 125 players by salary 
+and outputs the available data to the console. A short summary of valuable players by 
+2016 WAR/salary is included as well.
 
 Instructions:
 Download all files in the folder and be sure to install the necessary packages using 
